@@ -1,1 +1,41 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><title>PWCat</title><base href="https://commander.github.io/PWCat/"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" type="image/x-icon" href="favicon.ico"><link href="styles.b1fd174dd54366b02c0a.bundle.css" rel="stylesheet"/></head><body><app-root></app-root><script type="text/javascript" src="inline.318b50c57b4eba3d437b.bundle.js"></script><script type="text/javascript" src="polyfills.b6b2cd0d4c472ac3ac12.bundle.js"></script><script type="text/javascript" src="main.7de0aa87f0e47e637376.bundle.js"></script></body></html>
+<!doctype html><html lang="en">
+  <head>
+    <meta charset="utf-8"><title>PWCat</title>
+    <base href="https://commander.github.io/PWCat/">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link href="styles.b1fd174dd54366b02c0a.bundle.css" rel="stylesheet"/>
+    <style>
+
+#loading {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 3px solid rgba(255,255,255,.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+    </style>
+  </head>
+    <body>
+      <app-root>
+          <nav
+          style="background-color: #673ab7; height: 56px; width: 100%">
+        </nav>
+        <div id="loading"></div>
+      </app-root>
+      <script type="text/javascript" src="inline.318b50c57b4eba3d437b.bundle.js">
+      </script><script type="text/javascript" src="polyfills.b6b2cd0d4c472ac3ac12.bundle.js">
+      </script><script type="text/javascript" src="main.7de0aa87f0e47e637376.bundle.js">
+      </script>
+    </body>
+      </html>
