@@ -9,7 +9,7 @@
       "urls": [
         "/PWCat/index.html",
         "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWCat/main.79364588739dcf60d363.bundle.js",
+        "/PWCat/main.1521a7f92669acb78a10.bundle.js",
         "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/PWCat/styles.b1fd174dd54366b02c0a.bundle.css"
       ],
@@ -40,13 +40,13 @@
   "hashTable": {
     "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/PWCat/assets/android-chrome-192x192.png": "df1f1523179efae4783118d3c53d310bdbc4ed6e",
-    "/PWCat/main.79364588739dcf60d363.bundle.js": "80a405027bb168dab03a3d9672cfe35fe7d81145",
+    "/PWCat/main.1521a7f92669acb78a10.bundle.js": "9e74b2c330896d428fad6e1dadb4711880aba2d4",
     "/PWCat/assets/android-chrome-384x384.png": "c885247185214b87428d99206067c8808954be38",
     "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/PWCat/assets/android-chrome-512x512.png": "d1babd4a83f5f5d381727b8499e429692995e43e",
     "/PWCat/styles.b1fd174dd54366b02c0a.bundle.css": "95bca5deee6ffb01816c59cfe93011856f3a5647",
     "/PWCat/assets/apple-touch-icon.png": "6f9baa1887f601fc191d4e5ccead552874208150",
-    "/PWCat/index.html": "fc8971ac7e4ae57b693bbf836f1de18f47dbed70",
+    "/PWCat/index.html": "88f3345838436f1b5d86e9e15b308c16fe06e779",
     "/PWCat/assets/browserconfig.xml": "a308fac7c2637f1dcb86dace167168661cd2c64c",
     "/PWCat/assets/favicon-16x16.png": "3dd6849416b835c1d07388029ce1a6f3a773350d",
     "/PWCat/assets/favicon-32x32.png": "63c530c160d93940ac89903f373ad1497e6fe55b",
