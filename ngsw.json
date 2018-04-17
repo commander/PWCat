@@ -1,17 +1,17 @@
 {
   "configVersion": 1,
-  "index": "https://commander.github.io/PWCat/index.html",
+  "index": "/PWCat/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://commander.github.io/PWCat/index.html",
-        "https://commander.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://commander.github.io/PWCat/main.6a9209143f7b22b26d64.bundle.js",
-        "https://commander.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "https://commander.github.io/PWCat/styles.b1fd174dd54366b02c0a.bundle.css"
+        "/PWCat/index.html",
+        "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
+        "/PWCat/main.79364588739dcf60d363.bundle.js",
+        "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "/PWCat/styles.b1fd174dd54366b02c0a.bundle.css"
       ],
       "patterns": []
     },
@@ -20,36 +20,38 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://commander.github.io/PWCat/assets/android-chrome-192x192.png",
-        "https://commander.github.io/PWCat/assets/android-chrome-384x384.png",
-        "https://commander.github.io/PWCat/assets/android-chrome-512x512.png",
-        "https://commander.github.io/PWCat/assets/apple-touch-icon.png",
-        "https://commander.github.io/PWCat/assets/browserconfig.xml",
-        "https://commander.github.io/PWCat/assets/favicon-16x16.png",
-        "https://commander.github.io/PWCat/assets/favicon-32x32.png",
-        "https://commander.github.io/PWCat/assets/favicon.ico",
-        "https://commander.github.io/PWCat/assets/mstile-150x150.png",
-        "https://commander.github.io/PWCat/assets/safari-pinned-tab.svg"
+        "/PWCat/assets/android-chrome-192x192.png",
+        "/PWCat/assets/android-chrome-384x384.png",
+        "/PWCat/assets/android-chrome-512x512.png",
+        "/PWCat/assets/apple-touch-icon.png",
+        "/PWCat/assets/browserconfig.xml",
+        "/PWCat/assets/favicon-16x16.png",
+        "/PWCat/assets/favicon-32x32.png",
+        "/PWCat/assets/favicon.ico",
+        "/PWCat/assets/mstile-150x150.png",
+        "/PWCat/assets/safari-pinned-tab.svg"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://commander.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://commander.github.io/PWCat/assets/android-chrome-192x192.png": "df1f1523179efae4783118d3c53d310bdbc4ed6e",
-    "https://commander.github.io/PWCat/main.6a9209143f7b22b26d64.bundle.js": "f276a654136ed3dd774e74dba40b20fac844e29c",
-    "https://commander.github.io/PWCat/assets/android-chrome-384x384.png": "c885247185214b87428d99206067c8808954be38",
-    "https://commander.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
-    "https://commander.github.io/PWCat/assets/android-chrome-512x512.png": "d1babd4a83f5f5d381727b8499e429692995e43e",
-    "https://commander.github.io/PWCat/styles.b1fd174dd54366b02c0a.bundle.css": "95bca5deee6ffb01816c59cfe93011856f3a5647",
-    "https://commander.github.io/PWCat/assets/apple-touch-icon.png": "6f9baa1887f601fc191d4e5ccead552874208150",
-    "https://commander.github.io/PWCat/index.html": "5862f2d069d9d644851de81d059a9fa7437b4a62",
-    "https://commander.github.io/PWCat/assets/browserconfig.xml": "a308fac7c2637f1dcb86dace167168661cd2c64c",
-    "https://commander.github.io/PWCat/assets/favicon-16x16.png": "3dd6849416b835c1d07388029ce1a6f3a773350d",
-    "https://commander.github.io/PWCat/assets/favicon-32x32.png": "63c530c160d93940ac89903f373ad1497e6fe55b",
-    "https://commander.github.io/PWCat/assets/favicon.ico": "70996a2d15dc76f23c44bed01fb61752e7a71714",
-    "https://commander.github.io/PWCat/assets/mstile-150x150.png": "c4ffa5b521b2f50110691891a9ec9ede7a840f0e",
-    "https://commander.github.io/PWCat/assets/safari-pinned-tab.svg": "c496f40a470f30db2044c1c0ae7a60229adbf410"
+    "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/PWCat/assets/android-chrome-192x192.png": "df1f1523179efae4783118d3c53d310bdbc4ed6e",
+    "/PWCat/main.79364588739dcf60d363.bundle.js": "80a405027bb168dab03a3d9672cfe35fe7d81145",
+    "/PWCat/assets/android-chrome-384x384.png": "c885247185214b87428d99206067c8808954be38",
+    "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "/PWCat/assets/android-chrome-512x512.png": "d1babd4a83f5f5d381727b8499e429692995e43e",
+    "/PWCat/styles.b1fd174dd54366b02c0a.bundle.css": "95bca5deee6ffb01816c59cfe93011856f3a5647",
+    "/PWCat/assets/apple-touch-icon.png": "6f9baa1887f601fc191d4e5ccead552874208150",
+    "/PWCat/index.html": "fc8971ac7e4ae57b693bbf836f1de18f47dbed70",
+    "/PWCat/assets/browserconfig.xml": "a308fac7c2637f1dcb86dace167168661cd2c64c",
+    "/PWCat/assets/favicon-16x16.png": "3dd6849416b835c1d07388029ce1a6f3a773350d",
+    "/PWCat/assets/favicon-32x32.png": "63c530c160d93940ac89903f373ad1497e6fe55b",
+    "/PWCat/assets/favicon.ico": "70996a2d15dc76f23c44bed01fb61752e7a71714",
+    "/PWCat/assets/mstile-150x150.png": "c4ffa5b521b2f50110691891a9ec9ede7a840f0e",
+    "/PWCat/assets/safari-pinned-tab.svg": "c496f40a470f30db2044c1c0ae7a60229adbf410"
   }
 }
